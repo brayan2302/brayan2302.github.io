@@ -1,2 +1,1 @@
-# brayan2302.github.io
-INTT
+Portafolio - Brayan Pulido
